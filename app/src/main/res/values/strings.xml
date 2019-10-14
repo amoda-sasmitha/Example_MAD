@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExampleProject</string>
+
+    <array name="items">
+        <item>First Category</item>
+        <item>Second Category</item>
+        <item>Third Category</item>
+        <item>Fourth Category</item>
+    </array>
+</resources>
